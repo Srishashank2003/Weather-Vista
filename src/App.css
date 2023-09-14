@@ -245,9 +245,9 @@ h1 {
   background-position-x: -30px;
 }
 
-.count{
+.count {
   position: left;
-  margin:  2.375rem ;
+  margin: 2.375rem;
 }
 
 .title {
@@ -680,12 +680,12 @@ div#txt {
   color: #000;
   font-size: 1.5rem;
   margin: 1rem;
-  &:hover{
-    color: #191D88;
+  &:hover {
+    color: #191d88;
     transition: 0.3s ease-in-out;
   }
 }
-p{
+p {
   margin: 1rem;
 }
 

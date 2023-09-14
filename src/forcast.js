@@ -40,7 +40,7 @@ function Forcast(props) {
   };
 
   useEffect(() => {
-    search("Bengaluru");
+    search("Dhanbad");
   }, []);
 
   return (
