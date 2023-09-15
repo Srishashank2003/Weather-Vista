@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Weather-Vista/static/css/main.db26e666.chunk.css",
+    "main.js": "/Weather-Vista/static/js/main.87475df3.chunk.js",
+    "main.js.map": "/Weather-Vista/static/js/main.87475df3.chunk.js.map",
+    "runtime-main.js": "/Weather-Vista/static/js/runtime-main.6d184886.js",
+    "runtime-main.js.map": "/Weather-Vista/static/js/runtime-main.6d184886.js.map",
+    "static/js/2.f15878e7.chunk.js": "/Weather-Vista/static/js/2.f15878e7.chunk.js",
+    "static/js/2.f15878e7.chunk.js.map": "/Weather-Vista/static/js/2.f15878e7.chunk.js.map",
+    "index.html": "/Weather-Vista/index.html",
+    "precache-manifest.e118990eb342774b9eb769b44359cd08.js": "/Weather-Vista/precache-manifest.e118990eb342774b9eb769b44359cd08.js",
+    "service-worker.js": "/Weather-Vista/service-worker.js",
+    "static/css/main.db26e666.chunk.css.map": "/Weather-Vista/static/css/main.db26e666.chunk.css.map",
+    "static/js/2.f15878e7.chunk.js.LICENSE.txt": "/Weather-Vista/static/js/2.f15878e7.chunk.js.LICENSE.txt",
+    "static/js/main.87475df3.chunk.js.LICENSE.txt": "/Weather-Vista/static/js/main.87475df3.chunk.js.LICENSE.txt",
+    "static/media/WeatherIcons.gif": "/Weather-Vista/static/media/WeatherIcons.0a218296.gif",
+    "static/media/App.css": "/Weather-Vista/static/media/city.e1698332.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d184886.js",
+    "static/js/2.f15878e7.chunk.js",
+    "static/css/main.db26e666.chunk.css",
+    "static/js/main.87475df3.chunk.js"
+  ]
+}
